@@ -74,8 +74,8 @@ div.artist-info {
 }
 div.artist-info > img {
   width: 550px;
-  position: absolute;
-  top: -1.8rem;
+  position: relative;
+  bottom: -0.25rem;
   left: 15rem;
 }
 
